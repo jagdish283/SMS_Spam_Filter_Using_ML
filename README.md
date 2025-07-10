@@ -18,7 +18,6 @@ A modern, real-time SMS classification system powered by **Machine Learning**, *
 ✅ Live Dashboard with Gradio  
 ✅ Auto Message Storage  
 ✅ Paste Text & Classify Instantly  
-✅ Auto-refresh Interface  
 ✅ Professional UI Styling  
 
 ---
