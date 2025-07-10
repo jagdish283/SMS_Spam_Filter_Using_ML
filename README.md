@@ -149,6 +149,3 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ---
 
-## 📬 Feedback or Suggestions?
-
-Open an **Issue** or drop a message via the Telegram Bot. Contributions are welcome!
