@@ -35,13 +35,13 @@ SMS_Spam_Filter_ML/
 ├── messages/
 │   ├── inbox/                   # Inbox messages (not spam)
 │   └── spam/                    # Spam messages
-├── guide.pdf                    # Project setup guide (for client)
+├── Project Setup Guide.pdf      # Project setup guide 
 └── README.md                    # This file
 ```
 
 ---
 
-## ⚙️ Installation & Running the App
+## ⚙️ Installation & Running the App or refer the Project Setup Guide.pdf
 
 1. **Unzip the project folder**
 
@@ -49,8 +49,9 @@ SMS_Spam_Filter_ML/
 
 3. **Open a terminal**
 
-4. **Activate the virtual environment**
+4. **Create and Activate the virtual environment**
    ```
+   Python -m venv smsenv
    smsenv\Scripts\activate
    ```
 
@@ -129,10 +130,10 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 ## 🙋 Author
 
-**Shivam Patil**  
-*AI Developer | Data Engineer | Python Enthusiast*  
-🔗 [LinkedIn](https://linkedin.com/in/YOUR-PROFILE)  
-💼 Wipro, India  
+**Jagadish Sutar**  
+*AI Developer | Data Analyst | Data Engineer | Python Enthusiast*  
+🔗 [LinkedIn](https://www.linkedin.com/in/jagdish-sutar/)  
+
 
 ---
 
