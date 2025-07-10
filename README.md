@@ -49,18 +49,22 @@ SMS_Spam_Filter_ML/
 
 3. **Open a terminal**
 
-4. **Create and Activate the virtual environment**
+4. **Create the virtual environment**
    ```
    Python -m venv smsenv
+   ```
+
+5. **Activate the virtual environment**
+   ```
    smsenv\Scripts\activate
    ```
 
-5. **Install all required packages**
+6. **Install all required packages**
    ```
    pip install -r requirements.txt
    ```
 
-6. **Run the application**
+7. **Run the application**
    ```
    python app.py
    ```
