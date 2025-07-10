@@ -22,6 +22,12 @@ A modern, real-time SMS classification system powered by **Machine Learning**, *
 
 ---
 
+## 🚀 Live Demo
+
+👉 Try it now on Hugging Face Spaces:  
+🔗 [Click to Launch SMS Spam Filter](https://huggingface.co/spaces/jagdishsutar20/SMS_Sam_Filter_ML)
+
+
 ## 📁 Folder Structure
 
 ```
