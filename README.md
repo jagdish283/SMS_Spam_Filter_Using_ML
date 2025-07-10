@@ -108,7 +108,7 @@ SMS_Spam_Filter_ML/
 > ✨ Sleek, professional interface with dark theme and modern layout  
 > Below is the live UI screenshot from Hugging Face:
 
-![SMS Spam Filter Screenshot](https://github.com/jagdish283/sms-spam-filter/blob/main/screenshot.png?raw=true)
+![SMS Spam Filter Screenshot](https://github.com/jagdish283/SMS_Spam_Filter_Using_ML/blob/main/screenshot.png)
 
 ---
 
