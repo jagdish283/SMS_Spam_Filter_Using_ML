@@ -29,8 +29,9 @@ SMS_Spam_Filter_ML/
 │
 ├── app.py                       # Main Python app
 ├── requirements.txt             # Required dependencies
-├── vectorizer.pkl               # CountVectorizer for text input
-├── spam_classifier_model.pkl    # Trained ML model
+├── models/
+│   ├── spam_classifier_model.pkl    # Trained ML model
+│   └── vectorizer.pkl               # CountVectorizer for text input
 ├── messages/
 │   ├── inbox/                   # Inbox messages (not spam)
 │   └── spam/                    # Spam messages
